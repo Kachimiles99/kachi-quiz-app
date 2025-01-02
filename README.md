@@ -1,2 +1,1 @@
-# kachi-quiz-app
-Test your knowledge, challenge friends, and explore topics with engaging quizzes. Climb leaderboards and learn something new every day!
+Dive into the world of knowledge with kachi-quiz-app, the interactive quiz app that makes learning fun and engaging! Test your skills across various topics, challenge friends, and unlock achievements as you climb the leaderboard. With timed quizzes, personalized question sets, and a sleek, user-friendly interface, QuizMaster ensures there's always something new to learn and enjoy. Perfect for trivia enthusiasts and curious minds alike!
